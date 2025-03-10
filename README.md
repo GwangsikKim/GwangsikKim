@@ -25,6 +25,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder-0C7D9D?style=for-the-badge&logo=spyder&logoColor=white)
 
 #### 📚 **Learning**  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0077B5?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=Artificial%20Intelligence&logoColor=white)<a/>
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)<a/>
 ![Game Development](https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge&logo=Unity&logoColor=white)
