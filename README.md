@@ -1,17 +1,19 @@
 ## 안녕하세요. 👋
+<hr>
 
-## 
-<!--
-**GwangsikKim/GwangsikKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ 기술 스택 ✨
+- 🖥️ C#
+- 🐍 Python
+- ☕ Java
+- 🗄️ MariaDB
+- 🎛️ DevExpress
+- 🏗️ WPF
+- 🎮 Unreal Engine 5
 
-Here are some ideas to get you started:
+## 📌 프로젝트
+- 🔹 **PAM-Pro 2.0 고도화 프로젝트**
+- 🔹 **한미약품 WMS 시스템**
+- 🔹 **AI 기반 제조 매칭 서비스**
+- 🔹 **언리얼 엔진 5 모바일 게임 개발**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 연락처
