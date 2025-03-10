@@ -1,8 +1,3 @@
-
-
-
-    
-
 ## 🚀 **Tech Stack | My Languages & Skills**
 
 #### 🔥 **Primary Languages**  
@@ -35,9 +30,6 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:941130kgs@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href=https://mcl-ing1130.tistory.com/>
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     <a href=https://www.instagram.com/k_gwangsik9430/>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
