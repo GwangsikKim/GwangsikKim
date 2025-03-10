@@ -19,6 +19,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)<a/>
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white)
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-0C7D9D?style=for-the-badge&logo=spyder&logoColor=white)
+
 #### 📚 **Learning**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=Artificial%20Intelligence&logoColor=white)<a/>
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)<a/>
